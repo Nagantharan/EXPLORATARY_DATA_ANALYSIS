@@ -1,0 +1,24 @@
+ Date               Time           Global_active_power
+##  Length:2075259     Length:2075259     Length:2075259     
+##  Class :character   Class :character   Class :character   
+##  Mode  :character   Mode  :character   Mode  :character   
+##                                                           
+##                                                           
+##                                                           
+##                                                           
+##  Global_reactive_power   Voltage          Global_intensity  
+##  Length:2075259        Length:2075259     Length:2075259    
+##  Class :character      Class :character   Class :character  
+##  Mode  :character      Mode  :character   Mode  :character  
+##                                                             
+##                                                             
+##                                                             
+##                                                             
+##  Sub_metering_1     Sub_metering_2     Sub_metering_3  
+##  Length:2075259     Length:2075259     Min.   : 0.000  
+##  Class :character   Class :character   1st Qu.: 0.000  
+##  Mode  :character   Mode  :character   Median : 1.000  
+##                                        Mean   : 6.458  
+##                                        3rd Qu.:17.000  
+##                                        Max.   :31.000  
+##                                        NA's   :25979
